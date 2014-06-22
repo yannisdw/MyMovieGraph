@@ -1,4 +1,4 @@
-package be.dewolf.mg.be.dewolf.mg.types;
+package be.dewolf.mg.graph.types;
 
 import org.neo4j.graphdb.RelationshipType;
 

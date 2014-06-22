@@ -23,3 +23,6 @@ gradlew.bat
 
 # neo4j
 memoryDb/
+
+# file with api key
+src/main/resources/private.properties
